@@ -18,6 +18,7 @@ This repository contains **Jupyter Notebooks** that systematically teach Python,
 python_101/
 │── Data_Stracture/          # Python fundamentals: Numbers, Variable, String, RegEx
 │── Data_Structure2/         # Lists, Dictionaries, Sets etc.
+|── Function&Methods/        # Functions, lambda Expression, recursive function, decorator
 │── algorithms/              # Sorting, Searching, Recursion
 │── oop/                     # Object-Oriented Programming 
 │── advanced/                # Decorators, Multithreading, Async
