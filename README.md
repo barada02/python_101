@@ -20,7 +20,7 @@ python_101/
 │── Data_Structure2/         # Lists, Dictionaries, Sets etc.
 |── Function&Methods/        # Functions, lambda Expression, recursive function, decorator
 │── algorithms/              # Sorting, Searching, Recursion
-│── oop/                     # Object-Oriented Programming 
+│── OOPs/                     # Object-Oriented Programming 
 │── advanced/                # Decorators, Multithreading, Async
 │── interview_questions/     # Tricky Python problems with solutions
 │── notebooks/               # Jupyter Notebooks for hands-on learning
