@@ -46,7 +46,7 @@ python_101/
 We welcome contributions! If you have useful content, tricky questions, or optimizations, feel free to:
 - Fork the repo 🍴
 - Create a new branch 🔀
-
+- Add your changes ✨
 - Submit a Pull Request (PR) ✅
 
 ## 📢 Stay Connected
